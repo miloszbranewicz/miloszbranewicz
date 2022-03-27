@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align='left' width='32' height='32' alt='figma' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align='left' width='32' height='32' alt='php' />
 <img src='https://seeklogo.com/images/P/prestashop-logo-E97F09416E-seeklogo.com.png' align='left' width='32' height='32' alt='prestashop'/>
-          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miloszbranewicz)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
