@@ -2,7 +2,7 @@
 
 ### I'm Milosz, 'IT in business' student  and frontend developer
 
-- 🌱 I’m currently learning everything 😝, but mostly <a href='https://www.vuejs.org'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width='24' height='24' /></a> and <a href='https://www.vuejs.org'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width='24' height='24' /></a>
+- 🌱 I’m currently learning everything 😝, but mostly [Vue3](https://www.vuejs.org) and [Django](https://www.djangoproject.com/)
 - 📖 2022 Goals: Learn one backend and one frontend framework 🤩
 - 🤓 Hobbies? I like historical movies, all kinds of music and delicious food 🤤
 ***
