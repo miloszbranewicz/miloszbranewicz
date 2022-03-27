@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 😝, but mostly [Vue3](https://www.vuejs.org) and [Django](https://www.djangoproject.com/)
 - 📖 2022 Goals: Learn one backend and one frontend framework 🤩
-- 🤓 Hobbies? I like historical movies, all kinds of music and delicious food 🤤
+- 🤓 Hobbies? I like historical movies, all kinds of music and delicious food.🤤 Sometimes I play computer games and watch anime 🐱‍👤
 ***
 
 ### Skills and tools 🛠
