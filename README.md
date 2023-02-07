@@ -2,7 +2,7 @@
 
 ### I'm Milosz, 'IT in business' student  and frontend developer
 
-- 🌱 I’m currently learning everything 😝, but mostly [Vue3](https://www.vuejs.org) and [Laravel](https://laravel.com/)
+
 - 📖 2023 Goals: Learn one backend and one frontend framework 🤩
 - 🤓 Hobbies? I like historical movies, all kinds of music and delicious food.🤤 Sometimes I play computer games and watch anime 🐱‍👤
 ***
