@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-### I'm Milosz, 'IT in business' student  and frontend developer
-
 
 - 📖 ~~2023~~ 2024 Goals: Learn one backend and one frontend framework 🤩
 - 🤓 Hobbies? I like historical movies, all kinds of music, delicious food and coffee.🤤
