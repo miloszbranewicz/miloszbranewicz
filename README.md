@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 
-- 📖 ~~2023~~ 2024 Goals: Learn one backend and one frontend framework 🤩
 - 🤓 Hobbies? I like historical movies, all kinds of music, delicious food and coffee.🤤
 ***
 
